@@ -1,5 +1,8 @@
 # qb-clothing
-Clothing for QB-Core Framework :dress:
+Clothing for QB-Core Framework :dress:.
+
+- Remove all the model in the Model section, only the default Model is allowed.
+- Move the selection of Father and Mother to first time character creation. If they go to the clothing store after that, they wont be able to change the face.
 
 # License
 
